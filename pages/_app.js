@@ -1,6 +1,7 @@
 // pages/_app.js
 import React from 'react'
 import NextApp from 'next/app'
+import '../styles/Tailwind.css'
 
 import { theme } from 'essential-slices'
 
